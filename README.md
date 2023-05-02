@@ -1,9 +1,17 @@
 # Mudol 😉
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlfb7">
-<img align='left' src="[http://mazassumnida.wtf/api/v2/generate_badge?boj=dlfb7](https://github-readme-stats-sigma-five.vercel.app/api?username=KimMooHyeon&show_icons=ture)">
+<img align='left' src="https://github-readme-stats-sigma-five.vercel.app/api?username=KimMooHyeon&show_icons=ture">
 
-![KimMooHyeon's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KimMooHyeon&show_icons=ture)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ### Experience
 
